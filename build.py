@@ -79,8 +79,6 @@ readme = f'''<p align="center"><img src="./assets/banner.svg?v=2" width="100%" a
 <p align="center">
 {badge("LINKEDIN", "0A66C2", "linkedin", LINKEDIN)}
 {badge("EMAIL", "D14836", "gmail", "mailto:" + EMAIL)}
-{badge("FACEBOOK", "1877F2", "facebook", FACEBOOK)}
-{badge("WHATSAPP", "25D366", "whatsapp", WHATSAPP)}
 </p>
 
 ### About
