@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<rect width="1200" height="340" rx="16" fill="#0b1020"/>
+<rect x="30" y="30" width="1140" height="280" rx="12" fill="#0f1a1a" stroke="#1c3b30"/>
+<rect x="30" y="30" width="1140" height="42" rx="12" fill="#12332a"/>
+<text x="55" y="57" font-family="monospace" font-size="15" letter-spacing="3" fill="#2ee59d">MUHAMMAD ASAD · FULL-STACK WEB DEVELOPER</text>
+<circle cx="150" cy="170" r="52" fill="#0f2b24" stroke="#2ee59d" stroke-width="3"/>
+<text x="150" y="184" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="40" fill="#ffffff">MA</text>
+<text x="55" y="270" font-family="sans-serif" font-weight="700" font-size="20" fill="#ffffff">Muhammad Asad</text>
+<text x="55" y="292" font-family="monospace" font-size="13" fill="#9aa4b2">Web Developer</text>
+<text x="330" y="150" font-family="sans-serif" font-weight="700" font-size="34" fill="#2ee59d">React · Next.js</text><text x="330" y="176" font-family="monospace" font-size="14" letter-spacing="2" fill="#9aa4b2">FRONTEND</text>
+<text x="700" y="150" font-family="sans-serif" font-weight="700" font-size="34" fill="#2ee59d">Node.js · Express</text><text x="700" y="176" font-family="monospace" font-size="14" letter-spacing="2" fill="#9aa4b2">BACKEND</text>
+<text x="330" y="250" font-family="sans-serif" font-weight="700" font-size="34" fill="#2ee59d">PostgreSQL · Prisma</text><text x="330" y="276" font-family="monospace" font-size="14" letter-spacing="2" fill="#9aa4b2">DATABASE</text>
+<text x="700" y="250" font-family="sans-serif" font-weight="700" font-size="34" fill="#2ee59d">Render · Vercel</text><text x="700" y="276" font-family="monospace" font-size="14" letter-spacing="2" fill="#9aa4b2">DEPLOY</text>
+</svg>
