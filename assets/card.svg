@@ -8,7 +8,7 @@
 <text x="55" y="270" font-family="sans-serif" font-weight="700" font-size="20" fill="#ffffff">Muhammad Asad</text>
 <text x="55" y="292" font-family="monospace" font-size="13" fill="#9aa4b2">Web Developer</text>
 <text x="330" y="150" font-family="sans-serif" font-weight="700" font-size="34" fill="#2ee59d">React · Next.js</text><text x="330" y="176" font-family="monospace" font-size="14" letter-spacing="2" fill="#9aa4b2">FRONTEND</text>
-<text x="700" y="150" font-family="sans-serif" font-weight="700" font-size="34" fill="#2ee59d">Node.js · Express</text><text x="700" y="176" font-family="monospace" font-size="14" letter-spacing="2" fill="#9aa4b2">BACKEND</text>
+<text x="700" y="150" font-family="sans-serif" font-weight="700" font-size="34" fill="#2ee59d">Python · Node.js</text><text x="700" y="176" font-family="monospace" font-size="14" letter-spacing="2" fill="#9aa4b2">BACKEND</text>
 <text x="330" y="250" font-family="sans-serif" font-weight="700" font-size="34" fill="#2ee59d">PostgreSQL · Prisma</text><text x="330" y="276" font-family="monospace" font-size="14" letter-spacing="2" fill="#9aa4b2">DATABASE</text>
 <text x="700" y="250" font-family="sans-serif" font-weight="700" font-size="34" fill="#2ee59d">Render · Vercel</text><text x="700" y="276" font-family="monospace" font-size="14" letter-spacing="2" fill="#9aa4b2">DEPLOY</text>
 </svg>

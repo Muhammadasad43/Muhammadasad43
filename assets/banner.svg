@@ -5,7 +5,7 @@
 <rect width="1200" height="300" rx="16" fill="url(#g)"/>
 <text x="50" y="80" font-family="monospace" font-size="16" letter-spacing="5" fill="#2ee59d">FULL-STACK WEB DEVELOPER</text>
 <text x="50" y="150" font-family="sans-serif" font-weight="700" font-size="58" fill="#ffffff">Muhammad Asad</text>
-<text x="50" y="190" font-family="sans-serif" font-size="22" fill="#9aa4b2">React · Next.js · Node.js · Python · Databases</text>
+<text x="50" y="190" font-family="sans-serif" font-size="22" fill="#9aa4b2">Python · React · Next.js · Node.js · Databases</text>
 <path d="M0 255H330L350 215H470L490 255H640L660 215H780L800 255H950L970 215H1090L1110 255H1200"
  fill="none" stroke="#2ee59d" stroke-width="3" stroke-dasharray="1400" stroke-dashoffset="1400">
 <animate attributeName="stroke-dashoffset" from="1400" to="0" dur="4s" repeatCount="indefinite"/></path>
