@@ -3,7 +3,7 @@ import os
 NAME = "Muhammad Asad"
 INITIALS = "MA"
 ROLE = "FULL-STACK WEB DEVELOPER"
-SUB = "React · Next.js · Node.js · Databases"
+SUB = "React · Next.js · Node.js · Python · Databases"
 USER = "Muhammadasad43"
 EMAIL = "khanking2778@gmail.com"
 LINKEDIN = "https://www.linkedin.com/in/muhammad-asad-53462043b"
@@ -16,7 +16,7 @@ ABOUT = ("I'm a full-stack web developer who builds fast, clean web apps "
 CARD = [("FRONTEND", "React · Next.js"), ("BACKEND", "Node.js · Express"),
         ("DATABASE", "PostgreSQL · Prisma"), ("DEPLOY", "Render · Vercel")]
 SKILLS = ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js",
-          "Node.js", "Prisma", "Git"]
+          "Node.js", "Python", "Prisma", "Git"]
 
 os.makedirs("assets", exist_ok=True)
 BG, PANEL, GREEN, WHITE, GREY = "#0b1020", "#0f1a1a", "#2ee59d", "#ffffff", "#9aa4b2"
