@@ -74,7 +74,7 @@ def badge(label, color, logo, url):
     return (f'<a href="{url}"><img src="https://img.shields.io/badge/{label}-{color}'
             f'?style=for-the-badge&logo={logo}&logoColor=white"></a>')
 
-readme = f'''<p align="center"><img src="./assets/banner.svg" width="100%" alt="{NAME}"></p>
+readme = f'''<p align="center"><img src="./assets/banner.svg?v=2" width="100%" alt="{NAME}"></p>
 
 <p align="center">
 {badge("LINKEDIN", "0A66C2", "linkedin", LINKEDIN)}
@@ -86,10 +86,10 @@ readme = f'''<p align="center"><img src="./assets/banner.svg" width="100%" alt="
 ### About
 {ABOUT}
 
-<p align="center"><img src="./assets/card.svg" width="100%" alt="Stack"></p>
+<p align="center"><img src="./assets/card.svg?v=2" width="100%" alt="Stack"></p>
 
 ### Skills
-<p align="center"><img src="./assets/skills.svg" alt="Skills"></p>
+<p align="center"><img src="./assets/skills.svg?v=2" alt="Skills"></p>
 '''
 save("README.md", readme)
 print("Built: README.md + assets/banner.svg, card.svg, skills.svg")
